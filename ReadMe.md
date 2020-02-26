@@ -1,0 +1,1 @@
+This maven project performs 5 basic types of unit testing (Object Equality, Object Identity, Fail Message, Timeout and Disabled Test)

@@ -1,5 +1,12 @@
 package org.example;
 
+/* Employee.java
+ * Author: CMK
+ * Date: 26 February 2020
+
+*/
+
+
 public class Employee {
     private String name;
     private int empId;
